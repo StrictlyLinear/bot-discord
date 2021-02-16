@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Sensitive data file
+bot_token.py
+channel_id.py
